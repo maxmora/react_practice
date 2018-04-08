@@ -1,2 +1,3 @@
 # react_practice
-A bucket repo for playing around with React.
+
+Utils for working with Node/React locally via Docker.

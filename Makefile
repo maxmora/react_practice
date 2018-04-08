@@ -1,5 +1,5 @@
 NODE_ROOT := $(PWD)
-IMG_NAME:= "reactor"
+IMG_NAME:= "reactor:8"
 
 .PHONY: init nodeshell
 
